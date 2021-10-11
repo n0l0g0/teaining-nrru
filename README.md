@@ -1,1 +1,1 @@
-# teaining-nrru
+# training-nrru
